@@ -1,4 +1,5 @@
 from selenium import webdriver
+from selenium.common.exceptions import NoSuchElementException
 
 # * Parameters for dual monitor setup in configuration: [Monitor2, Monitor1]
 # * Monitor2: 1920x1080
@@ -12,14 +13,14 @@ HEIGHT = 580
 
 if __name__ == "__main__":
     default_coins = ["BITCOIN", "ETHEREUM", "LOOPRING", "DUSK"]
-    default_coins_binance = ["BTC", "ETH", "LRC", "DUSK"]
+    default_coins_binance = ["BTC", "BLZ", "LRC", "DUSK"]
 
     default_urls = []
 
     # * Select binance or CoinTrader charts.
     # ! Binance uses tickers |  CoinTrader uses full names | Kucoin to be added...
     preference = ["binance", "cmc", "kucoin"]
-    choice = preference[1]
+    choice = preference[0]
 
     # ! Each chart source has different quirks we need to address (i.e. how url is formed)
     if choice == "binance":
@@ -56,8 +57,12 @@ if __name__ == "__main__":
             driver.implicitly_wait(5)
 
             # * Full Screen
-            fs = driver.find_element_by_xpath(
-                "/html/body/div[1]/div/div/div[2]/div/div[2]/div/div[2]/div/div[1]/div[1]/div[2]/div[4]").click()
+            try:
+                fs = driver.find_element_by_xpath(
+                    "/html/body/div[1]/div/div/div[2]/div/div[2]/div/div[2]/div/div[1]/div[1]/div[2]/div[4]").click()
+            except NoSuchElementException:
+                fs = driver.find_element_by_xpath(
+                    '/html/body/div[1]/div[2]/div/div[3]/div/div[1]/div/div[2]/div/div[1]/div[1]/div[2]/div[4]').click()
 
         # * Resize window, adjust positioning based on index
         driver.set_window_size(WIDTH, HEIGHT)
@@ -73,9 +78,9 @@ if __name__ == "__main__":
             break
 
         #! Due to how binance's page works the only way to get trading view selected is to put this in at the end of the script
-        if choice == "binance":
-            driver.find_element_by_css_selector(
-                "div.css-4xvi8k:nth-child(2)").click()
+        # if choice == "binance":
+        #     driver.find_element_by_css_selector(
+        #         "div.css-4xvi8k:nth-child(2)").click()
 
     #! Empty while True loop allows us to exit all windows at once when terminating code (stop code shortcut)
     while True:

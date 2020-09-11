@@ -1,0 +1,180 @@
+1599806378133	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofiledpQqRF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599806379633	Marionette	INFO	Listening on port 55248
+1599806379642	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-b15fe619a4c79ea37e5d.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-b15fe619a4c79ea37e5d.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-b15fe619a4c79ea37e5d.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-b15fe619a4c79ea37e5d.js, line 1: WebGL context was lost.
+1599806387826	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofileKaAQTi"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599806389192	Marionette	INFO	Listening on port 55310
+1599806389332	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-b15fe619a4c79ea37e5d.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-b15fe619a4c79ea37e5d.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-b15fe619a4c79ea37e5d.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-b15fe619a4c79ea37e5d.js, line 1: WebGL context was lost.
+1599807859405	Marionette	INFO	Stopped listening on port 55310
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599806397889	Marionette	INFO	Listening on port 55375
+1599806398103	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-b15fe619a4c79ea37e5d.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-b15fe619a4c79ea37e5d.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-b15fe619a4c79ea37e5d.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-b15fe619a4c79ea37e5d.js, line 1: WebGL context was lost.
+1599806405096	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofile9OJ4rd"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599806406501	Marionette	INFO	Listening on port 55443
+1599806406604	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-b15fe619a4c79ea37e5d.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-b15fe619a4c79ea37e5d.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-b15fe619a4c79ea37e5d.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-b15fe619a4c79ea37e5d.js, line 1: WebGL context was lost.
+1599807864424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofileKDfyNe"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599807865724	Marionette	INFO	Listening on port 56629
+1599807865932	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-84e55a8cdb75c3014a46.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-84e55a8cdb75c3014a46.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-84e55a8cdb75c3014a46.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-84e55a8cdb75c3014a46.js, line 1: WebGL context was lost.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1599807878282	Marionette	INFO	Stopped listening on port 56629
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599807883826	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofileXvhqMp"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599807885218	Marionette	INFO	Listening on port 56701
+1599807885333	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-84e55a8cdb75c3014a46.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-84e55a8cdb75c3014a46.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-84e55a8cdb75c3014a46.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-84e55a8cdb75c3014a46.js, line 1: WebGL context was lost.
+1599807895775	Marionette	INFO	Stopped listening on port 56701
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599807903287	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofilemp2Qqy"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599807904638	Marionette	INFO	Listening on port 56780
+1599807904793	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-84e55a8cdb75c3014a46.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-84e55a8cdb75c3014a46.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-84e55a8cdb75c3014a46.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-84e55a8cdb75c3014a46.js, line 1: WebGL context was lost.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+1599807911541	Marionette	INFO	Stopped listening on port 56780
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599807917128	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofileIWsar5"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599807918551	Marionette	INFO	Listening on port 56848
+1599807918634	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-84e55a8cdb75c3014a46.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-84e55a8cdb75c3014a46.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-84e55a8cdb75c3014a46.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-84e55a8cdb75c3014a46.js, line 1: WebGL context was lost.
+1599808053447	Marionette	INFO	Stopped listening on port 56848
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599808057455	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofileWXkz6z"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599808058854	Marionette	INFO	Listening on port 56996
+1599808058967	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-84e55a8cdb75c3014a46.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-84e55a8cdb75c3014a46.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-84e55a8cdb75c3014a46.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-84e55a8cdb75c3014a46.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/trichat/static/min/chat-widget.prod.5a10019.js, line 2: Script terminated by timeout at:
+dt@https://bin.bnbstatic.com/static/trichat/static/min/chat-widget.prod.5a10019.js:2:339490
+Qt@https://bin.bnbstatic.com/static/trichat/static/min/chat-widget.prod.5a10019.js:2:346127
+Zt@https://bin.bnbstatic.com/static/trichat/static/min/chat-widget.prod.5a10019.js:2:345362
+t.unstable_runWithPriority@https://bin.bnbstatic.com/static/trichat/static/min/chat-widget.prod.5a10019.js:2:442849
+Uo@https://bin.bnbstatic.com/static/trichat/static/min/chat-widget.prod.5a10019.js:2:367524
+R@https://bin.bnbstatic.com/static/trichat/static/min/chat-widget.prod.5a10019.js:2:437048
+Gt@https://bin.bnbstatic.com/static/trichat/static/min/chat-widget.prod.5a10019.js:2:345177
+n@https://bin.bnbstatic.com/static/runtime/main-84e55a8cdb75c3014a46.js:1:143607
+
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+t error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+1599814715035	Marionette	INFO	Stopped listening on port 57062
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+t was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-84e55a8cdb75c3014a46.js, line 1: WebGL context was lost.
+1599808105008	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\UsersJavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript warning: https://bin.bnbstatic.com/static/trichat/static/min/chat-widget.prod.5a10019.js, line 2: Script terminated by timeout at:
+Wn@https://bin.bnbstatic.com/static/trichat/static/min/chat-widget.prod.5a10019.js:2:352053
+n@https://bin.bnbstatic.com/static/trichat/static/min/chat-widget.prod.5a10019.js:2:353578
+n@https://bin.bnbstatic.com/static/trichat/static/min/chat-widget.prod.5a10019.js:2:353578
+$n@https://bin.bnbstatic.com/static/trichat/static/min/chat-widget.prod.5a10019.js:2:352414
+extractEvents@https://bin.bnbstatic.com/static/trichat/static/min/chat-widget.prod.5a10019.js:2:365200
+pt@https://bin.bnbstatic.com/static/trichat/static/min/chat-widget.prod.5a10019.js:2:340146
+L@https://bin.bnbstatic.com/static/trichat/static/min/chat-widget.prod.5a10019.js:2:437272
+H@https://bin.bnbstatic.com/static/trichat/static/min/chat-widget.prod.5a10019.js:2:324557
+Qt@https://bin.bnbstatic.com/static/trichat/static/min/chat-widget.prod.5a10019.js:2:346144
+Zt@https://bin.bnbstatic.com/static/trichat/static/min/chat-widget.prod.5a10019.jJavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+t/static/min/chat-widget.prod.5a10019.js:2:367524
+R@https://bin.bnbstatic.com/static/trichat/static/min/chat-widget.prod.5a10019.js:2:437048
+Gt@https://bin.bnbstatic.com/static/trichat/static/min/chat-widget.prod.5a10019.js:2:345177
+n@https://bin.bnbstatic.com/static/runtime/main-84e55a8cdb75c3014a46.js:1:143607
+
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
