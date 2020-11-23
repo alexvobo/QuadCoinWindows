@@ -178,3 +178,741 @@ n@https://bin.bnbstatic.com/static/runtime/main-84e55a8cdb75c3014a46.js:1:143607
 
 JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1599814719307	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofileRIzIzM"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599814720756	Marionette	INFO	Listening on port 60960
+1599814720815	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-84e55a8cdb75c3014a46.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-84e55a8cdb75c3014a46.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-84e55a8cdb75c3014a46.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-84e55a8cdb75c3014a46.js, line 1: WebGL context was lost.
+1599814732666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\UsersJavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+1599882014733	Marionette	INFO	Stopped listening on port 60960
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+1599882013868	Marionette	INFO	Stopped listening on port 61032
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+alityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+1599882017087	Marionette	INFO	Stopped listening on port 61106
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+pt error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1599882017767	Marionette	INFO	Stopped listening on port 61184
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599892269118	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofileMZkOob"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599892270632	Marionette	INFO	Listening on port 65373
+1599892271129	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-84e55a8cdb75c3014a46.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-84e55a8cdb75c3014a46.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-84e55a8cdb75c3014a46.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-84e55a8cdb75c3014a46.js, line 1: WebGL context was lost.
+1599892282503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\UsersJavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/12b0aee5-0282-4cd4-8b42-16bcaa98aa25.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/12b0aee5-0282-4cd4-8b42-16bcaa98aa25.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/12b0aee5-0282-4cd4-8b42-16bcaa98aa25.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.jconsole.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/12b0aee5-0282-4cd4-8b42-16bcaa98aa25.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/12b0aee5-0282-4cd4-8b42-16bcaa98aa25.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/12b0aee5-0282-4cd4-8b42-16bcaa98aa25.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.json: "
+console.error: "Failed to feconsole.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/12b0aee5-0282-4cd4-8b42-16bcaa98aa25.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/12b0aee5-0282-4cd4-8b42-16bcaa98aa25.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/12b0aee5-0282-4cd4-8b42-16bcaa98aa25.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personalconsole.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/12b0aee5-0282-4cd4-8b42-16bcaa98aa25.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/12b0aee5-0282-4cd4-8b42-16bcaa98aa25.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/12b0aee5-0282-4cd4-8b42-16bcaa98aa25.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/30c71fa2-8842-419c-89db-addd30268f5b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/30c71fa2-8842-419c-89db-addd30268f5b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/30c71fa2-8842-419c-89db-addd30268f5b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/fa731eb2-b049-44bc-a12d-f42f7cea991d.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/fa731eb2-b049-44bc-a12d-f42f7cea991d.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/fa731eb2-b049-44bc-a12d-f42f7cea991d.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/2a0dbd55-2eae-44ea-b787-5379594979ff.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/2a0dbd55-2eae-44ea-b787-5379594979ff.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/2a0dbd55-2eae-44ea-b787-5379594979ff.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/bd6fe48d-f356-4af1-bb7e-4de42b1e6272.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/bd6fe48d-f356-4af1-bb7e-4de42b1e6272.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/bd6fe48d-f356-4af1-bb7e-4de42b1e6272.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/c2485f5d-8bb1-4a45-a752-efffe9cd55c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/c2485f5d-8bb1-4a45-a752-efffe9cd55c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/c2485f5d-8bb1-4a45-a752-efffe9cd55c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/281d6a98-5f8e-4bc4-8bae-72e7e16933ca.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/281d6a98-5f8e-4bc4-8bae-72e7e16933ca.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/281d6a98-5f8e-4bc4-8bae-72e7e16933ca.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/e8645388-afc5-48e3-8f3f-80f82a5353dc.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/e8645388-afc5-48e3-8f3f-80f82a5353dc.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/e8645388-afc5-48e3-8f3f-80f82a5353dc.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/47d2bcee-b6c1-464e-a443-e3527d029b0f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/47d2bcee-b6c1-464e-a443-e3527d029b0f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/47d2bcee-b6c1-464e-a443-e3527d029b0f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/18f03fe5-a60f-48c5-8cb8-13da750ca395.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/18f03fe5-a60f-48c5-8cb8-13da750ca395.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/18f03fe5-a60f-48c5-8cb8-13da750ca395.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/cdd3cdfb-1988-482a-850f-ec02aff07f45.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/cdd3cdfb-1988-482a-850f-ec02aff07f45.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/cdd3cdfb-1988-482a-850f-ec02aff07f45.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/a3944b1a-5464-406f-a97e-691702019575.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/a3944b1a-5464-406f-a97e-691702019575.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/a3944b1a-5464-406f-a97e-691702019575.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/61c97d21-6576-4624-aa8b-37839293aebd.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/61c97d21-6576-4624-aa8b-37839293aebd.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/61c97d21-6576-4624-aa8b-37839293aebd.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/1db0b78b-42f2-44fd-b78c-43f5fc760fa1.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/1db0b78b-42f2-44fd-b78c-43f5fc760fa1.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/1db0b78b-42f2-44fd-b78c-43f5fc760fa1.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/393f4033-c815-48d4-bf23-1eb42b4d30db.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/393f4033-c815-48d4-bf23-1eb42b4d30db.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/393f4033-c815-48d4-bf23-1eb42b4d30db.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/76666027-45db-4baa-8197-6e0f886966a8.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/76666027-45db-4baa-8197-6e0f886966a8.json: "
+console.error: "Failed to fetch undefinedmain-JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+erver)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+1599963692852	Marionette	INFO	Stopped listening on port 65453
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+vaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+tyProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 92: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+1601021149936	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofilejqvQB9"
+1601021159169	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofilet5fcJw"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601021160942	Marionette	INFO	Listening on port 58753
+1601021161186	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-0e6b71d9db6b2ed6608b.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-0e6b71d9db6b2ed6608b.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-0e6b71d9db6b2ed6608b.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-0e6b71d9db6b2ed6608b.js, line 1: WebGL context was lost.
+1601021174083	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofileY7tqpz"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601021175455	Marionette	INFO	Listening on port 58835
+1601021175599	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-0e6b71d9db6b2ed6608b.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-0e6b71d9db6b2ed6608b.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-0e6b71d9db6b2ed6608b.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-0e6b71d9db6b2ed6608b.js, line 1: WebGL context was lost.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1601028336217	Marionette	INFO	Stopped listening on port 58835
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+adCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601021188489	Marionette	INFO	Listening on port 58908
+1601021188543	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-0e6b71d9db6b2ed6608b.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-0e6b71d9db6b2ed6608b.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-0e6b71d9db6b2ed6608b.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-0e6b71d9db6b2ed6608b.js, line 1: WebGL context was lost.
+1601021200492	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofile6WpjfR"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601021202193	Marionette	INFO	Listening on port 58972
+1601021202505	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-0e6b71d9db6b2ed6608b.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-0e6b71d9db6b2ed6608b.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-0e6b71d9db6b2ed6608b.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-0e6b71d9db6b2ed6608b.js, line 1: WebGL context was lost.
+1606122202598	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofilexnw1TI"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606122203985	Marionette	INFO	Listening on port 50564
+1606122204145	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606122207823	Marionette	INFO	Stopped listening on port 50564
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606123989055	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofilex8X7eH"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606123990482	Marionette	INFO	Listening on port 51878
+1606124200158	Marionette	INFO	Stopped listening on port 51878
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606124182198	Marionette	INFO	Listening on port 52035
+1606124182376	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-cf3c88367211f8c0540e.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-cf3c88367211f8c0540e.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-cf3c88367211f8c0540e.js, line 1: WebGL context was lost.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-cf3c88367211f8c0540e.js, line 1: WebGL context was lost.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1606124768835	Marionette	INFO	Stopped listening on port 52035
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ists, new profile?" (new Error("", "(unknown module)"))
+1606124214092	Marionette	INFO	Listening on port 52168
+1606124214360	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606124269569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofileDzNF8r"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606124270899	Marionette	INFO	Listening on port 52264
+1606124271104	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606124352711	Marionette	INFO	Stopped listening on port 52264
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606124276542	Marionette	INFO	Listening on port 52324
+1606124276626	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606124353528	Marionette	INFO	Stopped listening on port 52324
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606124353100	Marionette	INFO	Listening on port 52443
+1606124353544	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606124403403	Marionette	INFO	Stopped listening on port 52443
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606124358825	Marionette	INFO	Listening on port 52504
+1606124358976	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606124402396	Marionette	INFO	Stopped listening on port 52504
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606124411907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofileVUB14t"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606124413326	Marionette	INFO	Listening on port 52600
+1606124413473	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606124495882	Marionette	INFO	Stopped listening on port 52600
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606124418965	Marionette	INFO	Listening on port 52660
+1606124419118	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606124496680	Marionette	INFO	Stopped listening on port 52660
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofileKrpDuf"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606124424394	Marionette	INFO	Listening on port 52720
+1606124424572	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606124497363	Marionette	INFO	Stopped listening on port 52720
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606124506008	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofileXZvcaW"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606124507250	Marionette	INFO	Listening on port 52833
+1606124507549	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606124704962	Marionette	INFO	Stopped listening on port 52833
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606124512679	Marionette	INFO	Listening on port 52890
+1606124512966	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606124705548	Marionette	INFO	Stopped listening on port 52890
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606124518378	Marionette	INFO	Listening on port 52947
+1606124518479	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606124706564	Marionette	INFO	Stopped listening on port 52947
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606124722672	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofileaWaamW"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606124723907	Marionette	INFO	Listening on port 53160
+1606124724210	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606124736064	Marionette	INFO	Stopped listening on port 53160
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofiley9ePqh"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606124729566	Marionette	INFO	Listening on port 53217
+1606124766616	Marionette	INFO	Stopped listening on port 53217
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606124743810	Marionette	INFO	Listening on port 53272
+1606124744066	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606124761887	Marionette	INFO	Stopped listening on port 53272
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofilezdgoyE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606124749448	Marionette	INFO	Listening on port 53332
+1606124749616	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: driver.dialogObserver is null
+waitForNavigationCompleted/<@chrome://marionette/content/navigate.js:364:5
+
+1606124767271	Marionette	INFO	Stopped listening on port 53332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606124781687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofiled0if9Y"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606124782990	Marionette	INFO	Listening on port 53420
+1606124783221	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606124794938	Marionette	INFO	Stopped listening on port 53420
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606124788555	Marionette	INFO	Listening on port 53479
+1606124788644	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606124793128	Marionette	INFO	Stopped listening on port 53479
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606124801472	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofile7AJ2nF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606124802682	Marionette	INFO	Listening on port 53551
+1606124803016	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606124808413	Marionette	INFO	Stopped listening on port 53551
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606124815526	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofiled1UXnx"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606124816874	Marionette	INFO	Listening on port 53623
+1606124817071	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606124852137	Marionette	INFO	Stopped listening on port 53623
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606124822343	Marionette	INFO	Listening on port 53681
+1606124822540	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606124853394	Marionette	INFO	Stopped listening on port 53681
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606124827560	Marionette	INFO	Listening on port 53744
+1606124827873	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606124852692	Marionette	INFO	Stopped listening on port 53744
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606124863600	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofileNEtroP"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606124864907	Marionette	INFO	Listening on port 53824
+1606124865149	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606124888334	Marionette	INFO	Stopped listening on port 53824
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606124870268	Marionette	INFO	Listening on port 53885
+1606124870507	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606124889036	Marionette	INFO	Stopped listening on port 53885
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606124875659	Marionette	INFO	Listening on port 53946
+1606124875927	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606124885598	Marionette	INFO	Stopped listening on port 53946
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606124899418	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofileeS7GiJ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606124900731	Marionette	INFO	Listening on port 54015
+1606124900983	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606124921152	Marionette	INFO	Stopped listening on port 54015
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606124906165	Marionette	INFO	Listening on port 54077
+1606124906387	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606124922141	Marionette	INFO	Stopped listening on port 54077
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606124911589	Marionette	INFO	Listening on port 54138
+1606124911851	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606124920391	Marionette	INFO	Stopped listening on port 54138
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606124956763	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofile0KwuLV"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606124958092	Marionette	INFO	Listening on port 54233
+1606124958302	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: https://www.geeksforgeeks.org/python-remove-square-brackets-from-list/ line 1 > injectedScript, line 1: TypeError: e is not a function
+JavaScript error: https://cdn.adpushup.com/40792/adpushup.js, line 1: TypeError: t.config is undefined
+JavaScript error: https://cdn.adpushup.com/40792/adpushup.js, line 1: TypeError: t.config is undefined
+JavaScript error: https://cdn.adpushup.com/40792/adpushup.js, line 1: TypeError: window.adpushup.1606125481684	Marionette	INFO	Stopped listening on port 54297
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+?" (new Error("", "(unknown module)"))
+1606124969089	Marionette	INFO	Listening on port 54355
+1606124969275	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606125481199	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofilewhh6C3"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606125482631	Marionette	INFO	Listening on port 54972
+1606125482755	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1606125539742	Marionette	INFO	Stopped listening on port 54972
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+7
+1606125488273	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1606125540572	Marionette	INFO	Stopped listening on port 55027
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606125570333	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofileEomTdE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606125571578	Marionette	INFO	Listening on port 55130
+1606125571861	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606125594224	Marionette	INFO	Stopped listening on port 55130
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606125577489	Marionette	INFO	Listening on port 55190
+1606125577746	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606125594903	Marionette	INFO	Stopped listening on port 55190
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606125711711	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofileq2EEgw"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606125713145	Marionette	INFO	Listening on port 55616
+1606125713268	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606125790126	Marionette	INFO	Stopped listening on port 55616
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606125718547	Marionette	INFO	Listening on port 55673
+1606125718880	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606125791143	Marionette	INFO	Stopped listening on port 55673
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606125786461	Marionette	INFO	Listening on port 55781
+1606125788838	Marionette	INFO	Stopped listening on port 55781
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606125798759	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Alex\\AppData\\Local\\Temp\\rust_mozprofilev4d106"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606125800100	Marionette	INFO	Listening on port 55838
+1606125800295	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606125814366	Marionette	INFO	Stopped listening on port 55838
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606125805932	Marionette	INFO	Listening on port 55895
+1606125806345	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606125813422	Marionette	INFO	Stopped listening on port 55895
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
