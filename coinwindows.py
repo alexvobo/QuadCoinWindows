@@ -1,5 +1,81 @@
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
+import threading
+
+drivers = []
+
+
+def launch_window(windows, index, url):
+    # * Create web window, navigate to a url in list
+    driver = webdriver.Firefox()
+    drivers.append(driver)
+    driver.get(url)
+
+    print("launching: \n", url)
+    # # ! Each chart source has different elements to search for
+    # if exch_choice == "binance":
+    #     # * Wait for content to load so we can locate with xpath
+    #     driver.implicitly_wait(5)
+
+    #     # * Full Screen
+    #     try:
+    #         fs = driver.find_element_by_xpath(
+    #             "/html/body/div[1]/div/div/div[2]/div/div[2]/div/div[2]/div/div[1]/div[1]/div[2]/div[4]").click()
+    #     except NoSuchElementException:
+    #         fs = driver.find_element_by_xpath(
+    #             '/html/body/div[1]/div[2]/div/div[3]/div/div[1]/div/div[2]/div/div[1]/div[1]/div[2]/div[4]').click()
+
+    # * Resize window, adjust positioning based on index
+    if windows == 2:
+        # * Parameters for dual monitor setup in configuration: [Monitor2, Monitor1]
+        # * Monitor2: 1920x1080
+        # * This will need to be adjusted depending on system
+        X_MIN_POS = -2100
+        X_MAX_POS = X_MIN_POS/2 + 80
+
+        WIDTH = 960
+        HEIGHT = 1080
+        driver.set_window_size(WIDTH, HEIGHT)
+
+        if index == 1:
+            driver.set_window_position(X_MIN_POS, 0)
+        elif index == 0:
+            driver.set_window_position(X_MAX_POS, 0)
+    elif windows == 3:
+        # * Parameters for dual monitor setup in configuration: [Monitor2, Monitor1]
+        # * Monitor2: 1920x1080
+        # * This will need to be adjusted depending on system
+        X_MIN_POS = -2100
+        X_MAX_POS = -815
+
+        WIDTH = 650
+        HEIGHT = 1080
+        driver.set_window_size(WIDTH, HEIGHT)
+        if index == 2:
+            driver.set_window_position(X_MIN_POS-X_MAX_POS, 0)
+        elif index == 1:
+            driver.set_window_position(X_MIN_POS, 0)
+        elif index == 0:
+            driver.set_window_position(X_MAX_POS+WIDTH/4, 0)
+    elif windows == 4:
+        # * Parameters for dual monitor setup in configuration: [Monitor2, Monitor1]
+        # * Monitor2: 1920x1080
+        # * This will need to be adjusted depending on system
+        X_MIN_POS = -2100
+        X_MAX_POS = -970
+        Y_MAX_POS = 800
+
+        WIDTH = 970
+        HEIGHT = 580
+        driver.set_window_size(WIDTH, HEIGHT)
+        if index == 3:
+            driver.set_window_position(X_MIN_POS, 0)
+        elif index == 2:
+            driver.set_window_position(X_MAX_POS, 0)
+        elif index == 1:
+            driver.set_window_position(X_MIN_POS, Y_MAX_POS)
+        elif index == 0:
+            driver.set_window_position(X_MAX_POS, Y_MAX_POS)
 
 
 V = 1.0
@@ -30,7 +106,7 @@ if __name__ == "__main__":
 
     # * Select binance or CoinTrader charts.
     # ! Binance uses tickers |  CoinTrader uses full names | Kucoin to be added...
-    preference = ["binance", "cmc", "kucoin"]
+    preference = ["binance", "cmc"]
     exch_choice = ""
 
     [print("  {}. {}".format(i+1, p.upper()))
@@ -46,7 +122,7 @@ if __name__ == "__main__":
                 break
         except ValueError:
             print("Invalid choice.\n")
-    print(exch_choice)
+
     # ! Each chart source has different quirks we need to address (i.e. how url is formed)
     if exch_choice == "binance":
         for coin in default_coins_binance:
@@ -64,93 +140,24 @@ if __name__ == "__main__":
                 quote = "BTC"
             default_urls.append(
                 "https://charts.cointrader.pro/charts.html?coin={}%3A{}".format(coin, quote))
-    else:
-        #!
-        #! Add KuCoin code here
-        #!
-        pass
-    drivers = []
+    threads = []
     # * Loop through reversed list because of the way the windows stack
-    for i, url in enumerate(reversed(default_urls[:windows])):
-        print(url)
-        # * Create web window, navigate to a url in list
-        driver = webdriver.Firefox()
-        driver.get(url)
-        drivers.append(driver)
-        # ! Each chart source has different elements to search for
-        if exch_choice == "binance":
-            # * Wait for content to load so we can locate with xpath
-            driver.implicitly_wait(5)
-
-            # * Full Screen
-            try:
-                fs = driver.find_element_by_xpath(
-                    "/html/body/div[1]/div/div/div[2]/div/div[2]/div/div[2]/div/div[1]/div[1]/div[2]/div[4]").click()
-            except NoSuchElementException:
-                fs = driver.find_element_by_xpath(
-                    '/html/body/div[1]/div[2]/div/div[3]/div/div[1]/div/div[2]/div/div[1]/div[1]/div[2]/div[4]').click()
-
-        # * Resize window, adjust positioning based on index
-        if windows == 2:
-            # * Parameters for dual monitor setup in configuration: [Monitor2, Monitor1]
-            # * Monitor2: 1920x1080
-            # * This will need to be adjusted depending on system
-            X_MIN_POS = -2100
-            X_MAX_POS = X_MIN_POS/2 + 80
-
-            WIDTH = 960
-            HEIGHT = 1080
-            driver.set_window_size(WIDTH, HEIGHT)
-
-            if i == 1:
-                driver.set_window_position(X_MIN_POS, 0)
-            elif i == 0:
-                driver.set_window_position(X_MAX_POS, 0)
-        if windows == 3:
-            # * Parameters for dual monitor setup in configuration: [Monitor2, Monitor1]
-            # * Monitor2: 1920x1080
-            # * This will need to be adjusted depending on system
-            X_MIN_POS = -2100
-            X_MAX_POS = -815
-
-            WIDTH = 650
-            HEIGHT = 1080
-            driver.set_window_size(WIDTH, HEIGHT)
-            if i == 2:
-                driver.set_window_position(X_MIN_POS-X_MAX_POS, 0)
-            elif i == 1:
-                driver.set_window_position(X_MIN_POS, 0)
-            elif i == 0:
-                driver.set_window_position(X_MAX_POS+WIDTH/4, 0)
-        elif windows == 4:
-            # * Parameters for dual monitor setup in configuration: [Monitor2, Monitor1]
-            # * Monitor2: 1920x1080
-            # * This will need to be adjusted depending on system
-            X_MIN_POS = -2100
-            X_MAX_POS = -970
-            Y_MAX_POS = 800
-
-            WIDTH = 970
-            HEIGHT = 580
-            driver.set_window_size(WIDTH, HEIGHT)
-            if i == 3:
-                driver.set_window_position(X_MIN_POS, 0)
-            elif i == 2:
-                driver.set_window_position(X_MAX_POS, 0)
-            elif i == 1:
-                driver.set_window_position(X_MIN_POS, Y_MAX_POS)
-            elif i == 0:
-                driver.set_window_position(X_MAX_POS, Y_MAX_POS)
-
+    for index, url in enumerate(reversed(default_urls[:windows])):
+        th = threading.Thread(target=launch_window,
+                              args=(windows, index, url,))
+        th.start()
+        threads.append(th)
         #! Due to how binance's page works the only way to get trading view selected is to put this in at the end of the script
         # if choice == "binance":
         #     driver.find_element_by_css_selector(
         #         "div.css-4xvi8k:nth-child(2)").click()
 
-    #! Empty while True loop allows us to exit all windows at once when terminating code (stop code shortcut)
-    while True:
-        try:
+    try:
+        while True:
             pass
-        except KeyboardInterrupt:
-            break
+    except KeyboardInterrupt:
+        # Cleanup
+        # [d.quit() for d in drivers]
+        [t.join() for t in threads]
+
     #! Remove if calling from cmd
